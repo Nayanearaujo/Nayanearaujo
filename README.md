@@ -32,10 +32,10 @@ I have worked in Brazil and Ireland across manufacturing, operations and care se
 | Project | Focus | Tools |
 | --- | --- | --- |
 | [Retail Performance Analytics](https://github.com/Nayanearaujo/Retail-Performance-Analytics) | Sales, customer and product performance from raw transactions to an executive dashboard | Python, SQL, Power BI |
-| [Maternal Health Risk Prediction](https://github.com/Nayanearaujo/Maternal-Health-Risk-Prediction) | Health-risk classification with scalable data preparation and neural networks | PySpark, Spark SQL, TensorFlow |
+| [Maternal Health Risk Classification](https://github.com/Nayanearaujo/maternal-health-risk-classification) | Leakage-aware model evaluation with duplicate control and grouped validation | Python, scikit-learn, grouped CV |
 | [Bike Demand Prediction](https://github.com/Nayanearaujo/Bike-Demand-Prediction-RNN) | Daily demand forecasting with recurrent neural networks | Python, Spark, LSTM, GRU |
 | [Dublin Rental Market Forecasting](https://github.com/Nayanearaujo/predicting-real-estate-rental-trends) | Rental-market analysis and long-term time-series forecasting | Python, RNN, LSTM |
-| [Mobility Time-Series Analysis](https://github.com/Nayanearaujo/mobility-time-series-analysis) | Comparison of public-transport patterns in Dublin and Canberra | Python, Pandas, time series |
+| [Mobility Time-Series Analysis](https://github.com/Nayanearaujo/mobility-time-series-analysis) | Public-transport recovery in Dublin and Canberra using comparable baseline indexes | Python, Pandas, time series |
 
 ## Current focus
 
