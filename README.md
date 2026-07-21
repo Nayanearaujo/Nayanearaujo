@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nayane-data-portfolio.nayane-oaraujo.chatgpt.site">Portfolio</a> ·
+  <a href="https://nayanearaujo.github.io/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/nayane-oaraujo">LinkedIn</a> ·
   <a href="mailto:noa.datatech@gmail.com">Email</a>
 </p>
