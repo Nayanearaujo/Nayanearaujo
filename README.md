@@ -93,5 +93,7 @@ Atualmente concentro meus estudos e projetos em:
 
 ## Contato
 📧 **E-mail:** <mailto:noa.datatech@gmail.com>
+
 💼 **LinkedIn:** https://www.linkedin.com/in/nayane-oaraujo
+
 🌐 **Portfólio:** https://nayane-data-portfolio.nayane-oaraujo.chatgpt.site
