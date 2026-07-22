@@ -17,7 +17,7 @@
 ## Sobre 
 Sou Nayane, Engenheira Química com Mestrado em Data Analytics.
 Transformo dados de operações, qualidade e vendas em KPIs, dashboards e decisões, unindo Python, SQL e Power BI para responder perguntas de negócio de forma estruturada e orientada por evidências.
-Já trabalhei no Brasil e na Irlanda em manufatura, operações e serviços de cuidado. Essa vivência me permite conectar o processo por trás dos números com a análise dos dados — o que torna os dashboards que construo realmente utilizáveis por quem toca o negócio no dia a dia.
+Já trabalhei no Brasil e na Irlanda em manufatura, operações e serviços de cuidado, essa vivência me permite conectar o processo por trás dos números com a análise dos dados o que torna os dashboards que construo realmente utilizáveis por quem toca o negócio no dia a dia.
 
 ## Principais competências
 
