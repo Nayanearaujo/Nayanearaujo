@@ -3,7 +3,7 @@
   <strong>Business Intelligence · Data Analytics · Power BI · SQL · Python</strong>
 </p>
 <p align="center">
-  Rio de Janeiro, Brasil 🇧🇷 · 6 anos de experiência internacional na Irlanda 🇮🇪
+  Rio de Janeiro, Brasil · 6 anos de experiência internacional na Irlanda 🇮🇪
 </p>
 <p align="center">
   <a href="https://nayanearaujo.github.io/">Portfólio</a> ·
