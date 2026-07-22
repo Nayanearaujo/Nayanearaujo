@@ -84,7 +84,9 @@ Atualmente concentro meus estudos e projetos em:
 
 ## Formação
 🎓 MSc in Data Analytics — CCT College Dublin
+
 🎓 Postgraduate Diploma in Data Science for Business — CCT College Dublin
+
 🎓 Bacharelado em Engenharia Química — UNAERP
 
 ---
