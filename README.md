@@ -1,4 +1,18 @@
-# Olá, eu sou a Nayane 👋
+
+<h1 align="center">Nayane Araújo</h1>
+<p align="center">
+  <strong>Data Analytics · Machine Learning · Business Intelligence · Engenharia de Dados</strong>
+</p>
+<p align="center">
+  Brasil · Experiência acadêmica e profissional em Dublin, Irlanda 🇮🇪
+</p>
+<p align="center">
+  <a href="https://nayanearaujo.github.io/">🌐 Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/nayane-oaraujo">💼 LinkedIn</a> ·
+  <a href="mailto:nayane.oaraujo@gmail.com">📧 E-mail</a>
+</p>
+
+---
 
 Engenheira Química e Mestre em Análise de Dados. Uno a visão prática de chão de fábrica e processos industriais à ciência de dados avançada, transformando volumes complexos de informação em modelos preditivos, indicadores estratégicos e automações que geram impacto operacional real.
 
@@ -53,3 +67,4 @@ Java (Spring Boot, Spring AI, Tool Calling), TypeScript (Fastify, Node.js), Dock
 📧 [nayane.oaraujo@gmail.com](mailto:nayane.oaraujo@gmail.com)  
 💼 [linkedin.com/in/nayane-oaraujo](https://www.linkedin.com/in/nayane-oaraujo)  
 🌐 [nayanearaujo.github.io](https://nayanearaujo.github.io/)
+```
