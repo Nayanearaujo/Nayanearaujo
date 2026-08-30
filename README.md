@@ -1,99 +1,55 @@
-<h1 align="center">Nayane Araújo</h1>
-<p align="center">
-  <strong>Business Intelligence · Data Analytics · Power BI · SQL · Python</strong>
-</p>
-<p align="center">
-  Rio de Janeiro, Brasil · 6 anos de experiência internacional na Irlanda 🇮🇪
-</p>
-<p align="center">
-  <a href="https://nayanearaujo.github.io/">Portfólio</a> ·
-  <a href="https://www.linkedin.com/in/nayane-oaraujo">LinkedIn</a> ·
-  <a href="mailto:noa.datatech@gmail.com">E-mail</a>
-</p>
+# Olá, eu sou a Nayane 👋
 
----
+Engenheira Química e Mestre em Análise de Dados. Uno a visão prática de chão de fábrica e processos industriais à ciência de dados avançada, transformando volumes complexos de informação em modelos preditivos, indicadores estratégicos e automações que geram impacto operacional real.
 
-## Sobre
-Sou Engenheira Química com Mestrado em Data Analytics e desenvolvo soluções analíticas voltadas para análise de desempenho, indicadores e apoio à tomada de decisão.
-Minha trajetória combina experiência em manufatura, qualidade, operações e análise de dados no Brasil e na Irlanda. Essa vivência me permite compreender os processos antes mesmo de analisar os dados, construindo dashboards e análises que respondem a problemas reais do negócio.
-Aqui você encontrará projetos completos de Analytics, desde a compreensão e limpeza dos dados até SQL, visualizações, dashboards em Power BI e documentação técnica.
+## Sobre mim
 
----
+Minha trajetória conecta engenharia de processos, gestão de qualidade e análise de dados. Atuei na Nestlé no Brasil com controle de processos e melhoria contínua, e morei mais de 2 anos em Dublin (Irlanda), onde concluí meu Mestrado em Análise de Dados e minha Pós-Graduação em Ciência de Dados para Negócios na CCT College Dublin. Atualmente, curso Pós-Graduação em Engenharia de Dados e Inteligência Artificial na Faculdade Anhanguera.
 
-## Principais competências
+Trabalho orientada pela metodologia CRISP-DM, aplicando desde a preparação e limpeza de dados (data wrangling) até a modelagem estatística, redes neurais e arquitetura dimensional de dados. Recentemente, venho expandindo minha atuação para desenvolvimento backend e microsserviços integrados a LLMs com Java/Spring e Node.js/Fastify.
 
-### Business Intelligence
-- Power BI
-- Power Query
-- SQL
-- Dashboards Executivos
-- Modelagem de KPIs
+## O que eu faço
 
-### Análise de Dados
-- Python
-- Pandas
-- NumPy
-- ETL
-- Data Wrangling
-- Análise Exploratória (EDA)
-- Data Storytelling
+**Ciência de Dados, Machine Learning e IA**
+Python (Pandas, Scikit-learn, NumPy), Redes Neurais e Modelos Preditivos, Estatística Aplicada a Modelos, Feature Engineering, Metodologia CRISP-DM, LLMs e Engenharia de Prompt.
 
-### Analytics
-- Análise Estatística
-- Machine Learning
-- Séries Temporais
-- Validação de Modelos
+**Engenharia de Dados e Business Intelligence**
+Power BI e DAX, Modelagem Dimensional (Star Schema), SQL (PostgreSQL, SQLite), Pipelines de ETL e Data Wrangling, Big Data Storage e Processamento.
 
-### Processos e Qualidade
-- Lean Manufacturing
-- DMAIC
-- VSM (Value Stream Mapping)
-- Melhoria Contínua
-- Análise de Causa Raiz
+**Backend, DevOps e Base Industrial**
+Java (Spring Boot, Spring AI, Tool Calling), TypeScript (Fastify, Node.js), Docker, Git, Controle Estatístico de Processo, Análise de Causa Raiz (Lean Six Sigma), Governança e LGPD.
 
----
+## Projetos em destaque
 
-# Projetos em destaque
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Retail Performance Analytics](https://github.com/Nayanearaujo/Retail-Performance-Analytics) | Projeto completo de Business Intelligence, desde Data Understanding até dashboard executivo em Power BI. | Python · SQL · Power BI |
-| [Financial Fraud Detection](https://github.com/Nayanearaujo/financial-fraud-detection) | Classificação de risco de fraude utilizando Machine Learning e validação temporal. | Python · SQL · Scikit-learn · Streamlit |
-| [Chemical Process Performance Analytics](https://github.com/Nayanearaujo/chemical-process-performance-analytics) | Análise de desempenho industrial com foco em processos, indicadores e melhoria contínua. | Python · SQL · Power BI |
+### 📊 Foco Principal: Dados, Analytics e Machine Learning
 
----
+| Projeto | O que resolve | Tecnologias |
+| :--- | :--- | :--- |
+| [Retail Performance Analytics](https://github.com/Nayanearaujo/Retail-Performance-Analytics) | Dashboard executivo e operacional de vendas, segmentação de clientes e reconciliação de métricas | Power BI, DAX, SQL, Python |
+| [Chemical Process Performance Analytics](https://github.com/Nayanearaujo/chemical-process-performance-analytics) | Diagnóstico de causa raiz, controle estatístico de processo e otimização de rendimento industrial | Python, Pandas, Estatística, Visualização |
+| [Financial Fraud Detection](https://github.com/Nayanearaujo/financial-fraud-detection) | Classificação preditiva de transações fraudulentas com validação temporal anti-vazamento de dados | Python, Scikit-learn, Machine Learning, Streamlit |
+
+### ⚡ Extensão Técnica: Backend, Microsserviços e LLM
+
+| Projeto | O que resolve | Tecnologias |
+| :--- | :--- | :--- |
+| [Budgeting API com Spring AI](https://github.com/Nayanearaujo/budgeting-spring-ai) | Microsserviço financeiro que converte comandos de voz em transações via LLM Tool Calling e auditoria | Java, Spring Boot, Spring AI, REST API |
+| [F1 Racing Data API](https://github.com/Nayanearaujo/F1-racing-data-api) | API REST com pipeline ETL de Fórmula 1, modelagem dimensional em SQLite e Docker (Desafio DIO + Corpay) | Fastify, TypeScript, Python ETL, SQLite, Docker |
 
 ## Atualmente
-Atualmente concentro meus estudos e projetos em:
-- Business Intelligence
-- Performance Analytics
-- Power BI
-- Microsoft Fabric
-- SQL para Analytics
-- Engenharia de Dados aplicada à análise
 
----
-
-## Outros projetos
-| Projeto | Área |
-| --- | --- |
-| [Maternal Health Risk Classification](https://github.com/Nayanearaujo/maternal-health-risk-classification) | Machine Learning |
-| [Bike Demand Prediction](https://github.com/Nayanearaujo/Bike-Demand-Prediction-RNN) | Forecasting |
-| [Dublin Rental Market Forecasting](https://github.com/Nayanearaujo/predicting-real-estate-rental-trends) | Time Series |
-
----
+* Cursando Pós-Graduação em Engenharia de Dados e Inteligência Artificial (Faculdade Anhanguera, desde agosto de 2026).
+* Desenvolvendo pipelines analíticos de ponta a ponta integrando machine learning, engenharia de dados e copilotos inteligentes.
 
 ## Formação
-🎓 MSc in Data Analytics — CCT College Dublin
 
-🎓 Postgraduate Diploma in Data Science for Business — CCT College Dublin
+* 🎓 Pós-Graduação em Engenharia de Dados e Inteligência Artificial — Faculdade Anhanguera *(cursando desde agosto/2026)*
+* 🎓 MSc in Data Analytics — CCT College Dublin *(2024–2025)*
+* 🎓 Postgraduate Diploma in Data Science for Business — CCT College Dublin *(2021–2022)*
+* 🎓 Bacharelado em Engenharia Química — UNAERP *(2013–2018)*
 
-🎓 Bacharelado em Engenharia Química — UNAERP
+## Vamos conversar
 
----
-
-## Contato
-📧 **E-mail:** <mailto:noa.datatech@gmail.com>
-
-💼 **LinkedIn:** https://www.linkedin.com/in/nayane-oaraujo
-
-🌐 **Portfólio:** https://nayane-data-portfolio.nayane-oaraujo.chatgpt.site
+📧 [nayane.oaraujo@gmail.com](mailto:nayane.oaraujo@gmail.com)  
+💼 [linkedin.com/in/nayane-oaraujo](https://www.linkedin.com/in/nayane-oaraujo)  
+🌐 [nayanearaujo.github.io](https://nayanearaujo.github.io/)
