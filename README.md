@@ -16,7 +16,7 @@ Brasil · Experiência acadêmica e profissional em Dublin, Irlanda 🇮🇪
 
 <br>
 
-Engenheira Química e Mestre em Análise de Dados (CCT College Dublin). Combino profundidade estatística com visão de processo industrial para resolver problemas que a maioria dos analistas nunca chega a ver de perto: onde o dado nasce, o que ele custa errar, e o que muda quando o modelo sai do notebook e entra na operação.
+Engenheira Química e Mestre em Análise de Dados (CCT College Dublin), com 11+ anos de experiência entre chão de fábrica, gestão da qualidade e análise de dados. Combino profundidade estatística com visão de processo industrial para resolver problemas que a maioria dos analistas não chega a ver de perto: onde o dado nasce, o que ele custa errar, e o que muda quando o modelo sai do notebook e entra na operação.
 
 ### Sobre mim
 Comecei liderando controle de processos e melhoria contínua na Nestlé, onde reduzi perdas de embalagem em **41%** e reclamações de consumidores em **53%** aplicando Lean Six Sigma e Controle Estatístico de Processo. Levei essa disciplina de causa-raiz para a análise de dados: morei mais de 2 anos em Dublin, onde concluí meu Mestrado em Análise de Dados e a Pós-Graduação em Ciência de Dados para Negócios na CCT College Dublin. Hoje curso Pós-Graduação em Engenharia de Dados e Inteligência Artificial na Faculdade Anhanguera.
