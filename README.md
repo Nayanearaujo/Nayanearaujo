@@ -16,8 +16,6 @@ Brasil · Experiência acadêmica e profissional em Dublin, Irlanda 🇮🇪
 
 <br>
 
-> 11+ anos transformando dado bruto em decisão de negócio — do chão de fábrica da Nestlé aos dashboards executivos que sustentam operações internacionais.
-
 Engenheira Química e Mestre em Análise de Dados (CCT College Dublin). Combino profundidade estatística com visão de processo industrial para resolver problemas que a maioria dos analistas nunca chega a ver de perto: onde o dado nasce, o que ele custa errar, e o que muda quando o modelo sai do notebook e entra na operação.
 
 ### Sobre mim
